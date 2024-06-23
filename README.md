@@ -188,7 +188,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### AI
 
-- [Learn about Wardley Maps using MEMGPT]((https://stmemgptv2.streamlit.app/)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
 - [Learn about Wardley Maps using Claude](https://claude-chatbot.streamlit.app/) - An AI Application using Claude to help learn Wardley Maps
 - [Learn about Wardley Maps using OpenAI](https://learnwardleymapping.streamlit.app/) - Streamlit and OpenAI application to learn Wardley Maps.
 - [Learn about Wardley Maps using OpenAI Assistants](https://learnwardleymapping-gpt.streamlit.app/) - OpenAI Assistant application to help learn Wardley Maps.
@@ -207,7 +206,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Wardley Map Analyst](https://chat.openai.com/g/g-Cic0bH5CF-wardley-map-analyst) - Analyzes and visualizes Wardley Maps from text
 - [Learn Wardley Mapping](https://chat.openai.com/g/g-sg6zS89Hi-learn-wardley-mapping) - I guide you in learning and applying Wardley Maps.
 - [Introduction to Wardley Mapping](https://chat.openai.com/g/g-v6OW6JOQ7-introduction-to-wardley-mapping) - A quick introduction to Wardley Mapping
-- [Wardley Map Syntax Expert](https://chat.openai.com/g/g-6vfuL6SXd-wardley-map-syntax-expert) - Expert in analyzing and fixing Wardley Map syntax
 
 ## Templates
 
